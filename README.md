@@ -19,3 +19,13 @@
 * **Datbase management tool** : DBeaver 26.1.4.
 * **Data Engineering & Processing** : SQL (PostgreSQL),Python(Pandas).
 * **Data visualization and Dashboard** : Matlib-plot,Power BI.
+
+## 4.Methodology
+
+* **Data Extraction and Cleaning** : Using **SQL (PostgreSQL)** to join multiple tables in the database and aggregate results with **aggregation functions (e.g., SUM, COUNT)**; processing data with **Python (Pandas)**.
+* **Metrics** : **"On-Time Delivery Rate"**.
+* **Method in Scopes** :
+  1. **Overall Analysis** : Using **Window Functions('LAG','RANK','DENSE_RANK')** and **CTE** to calculate the monthly delay rate.
+  2. **Geolocation Analysis** : Using **aggragation function** and **CTE** to assess the effectiveness of data granularity across different geographic levels.
+  3. **Finance Analysis** : Comparing 'order_item' table and 'order_payments' to determine the revenue difference.
+* **Dashboard and report** : Built an interactive **Power BI** Dashboard to display results and created a PDF report for presentation. 
