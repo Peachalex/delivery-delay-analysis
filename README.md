@@ -8,7 +8,7 @@
 
 ## 2.Source
 
-* **DataSet** : [Kaggle](https://www.kaggle.com/datasets/limjeongeun/synthetic-u-s-e-commerce-dataset-1m-orders/data).
+* **DataSet** : [US Ecommence 2019-1025 Dataset](https://www.kaggle.com/datasets/limjeongeun/synthetic-u-s-e-commerce-dataset-1m-orders/data).
 * **Core Table** : 'orders','customers','order_items','order_payments','products'(total 8 tables).
 * **Scale** : 1 Million.
 
