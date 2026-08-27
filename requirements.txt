@@ -1,0 +1,6 @@
+pandas
+numpy
+matplolib
+seaborn
+psycopg2
+sqlalchemy
