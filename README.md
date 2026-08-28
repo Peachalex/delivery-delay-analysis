@@ -29,3 +29,9 @@
   2. **Geolocation Analysis** : Using **aggragation function** and **CTE** to assess the effectiveness of data granularity across different geographic levels.
   3. **Finance Analysis** : Comparing 'order_item' table and 'order_payments' to determine the revenue difference.
 * **Dashboard and report** : Built an interactive **Power BI** Dashboard to display results and created a PDF report for presentation. 
+
+## 4. Key Insights & Results
+
+* **Overall delay rate** :  The overall delay rate fluctuates between **9% and 10%** through 6 years.
+* **Geographical scope** : A notable difference was found at the state level. For example, Geogia(GA) shows a slightly higher delay rate of **10%**, compared to **9%** in other states.
+* **Financial scope** : A data reconciliation between 'order_items' and 'order_payments' revealed that approximately **5%** orders had discrepancies, traced back to inconsistent freight charge inclusing logic.
