@@ -35,3 +35,11 @@
 * **Overall delay rate** :  The overall delay rate fluctuates between **9% and 10%** through 6 years.
 * **Geographical scope** : A notable difference was found at the state level. For example, Geogia(GA) shows a slightly higher delay rate of **10%**, compared to **9%** in other states.
 * **Financial scope** : A data reconciliation between 'order_items' and 'order_payments' revealed that approximately **5%** orders had discrepancies, traced back to inconsistent freight charge inclusing logic.
+
+## 5. Contact me
+
+if you have any questions, feedback, or just want to connct, feel free to reach out!
+[![LinkedIn](https://shields.io)](https://www.linkedin.com/in/alext41/)
+[![GitHub](https://shields.io)](https://github.com/yourusernamPeachalex)
+[![Email](https://shields.io)](mailto:peachalex233@gmail.com)
+[![Twitter](https://shields.io)](https://x.com/AlextheAcari)
