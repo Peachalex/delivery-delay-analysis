@@ -39,7 +39,8 @@
 ## 5. Contact me
 
 if you have any questions, feedback, or just want to connct, feel free to reach out!
-[![LinkedIn](https://shields.io)](https://www.linkedin.com/in/alext41/)
-[![GitHub](https://shields.io)](https://github.com/yourusernamPeachalex)
-[![Email](https://shields.io)](mailto:peachalex233@gmail.com)
-[![Twitter](https://shields.io)](https://x.com/AlextheAcari)
+
+* **LinkedIn** : [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/alext41/)
+* **GitHub** : [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/yourusernamPeachalex)
+* **Email** : [![Email](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:peachalex233@gmail.com)
+* **Twitter** : [![Twitter](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://x.com/AlextheAcari)
