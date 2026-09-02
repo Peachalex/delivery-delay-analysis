@@ -4,7 +4,7 @@
 
 * **Background** : E-Commence delivery delay impacted user experience.
 * **Objective** : Qualified in analysing 6 years of order data to identify the critical geolocation and trend to support operational optimisation.
-* **Insights** : Lowered the overall delay rate by 1- 2 percentage points as estimated by targeting the region to optimize the delivery strategy.
+* **Insights & Recommendations** : Lowered the overall delay rate by 1-2 percentage points as estimated by targeting the region to optimize the delivery strategy.
 
 ## 2.Source
 
