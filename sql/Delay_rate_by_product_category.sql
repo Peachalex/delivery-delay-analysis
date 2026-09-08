@@ -1,6 +1,11 @@
 select 
   p.product_category_name,
   COUNT(*) as delivered_orders,
+    SUM(case
+  	when o.order_delivered_customer_date > o.order_estimated_delivery_date
+  	then 1 else 0
+  end
+  ) as delayed_orders,
   ROUND(100.0 * SUM(case when o.order_delivered_customer_date > o.order_estimated_delivery_date then 1 else 0 end )/count(*),2) as delay_rate 
 from 
   orders o 
