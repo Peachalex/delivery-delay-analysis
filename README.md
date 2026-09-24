@@ -27,7 +27,8 @@
 * **Method in Scopes** :
   1. **Overall Analysis** : Using **Window Functions('LAG','RANK','DENSE_RANK')** and **CTE** to calculate the monthly delay rate.
   2. **Geolocation Analysis** : Using **aggragation function** and **CTE** to assess the effectiveness of data granularity across different geographic levels.
-  3. **Finance Analysis** : Comparing 'order_item' table and 'order_payments' to determine the revenue difference.
+  3. **Time Series Analysis** : Using **decomposion** function from **statsmodels** to identify the **seasonality** and fit proper model (e.g., **ARMA**) and using the metrics(Mean Absolute Error, Root Mean Squared Error, Mean Absolute Percentage Error) to assess its accuracy.
+  4. **Finance Analysis** : Comparing 'order_item' table and 'order_payments' to determine the revenue difference.
 * **Dashboard and report** : Built an interactive **Power BI** Dashboard to display results and created a PDF report for presentation. 
 
 ## 4. Key Insights & Results
