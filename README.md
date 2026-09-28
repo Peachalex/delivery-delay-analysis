@@ -2,7 +2,7 @@
 
 ## 1. Who is this for
 
-* This project is for hiring managers,recruiters and data teams who want to see a complete analytic workflow, from ETL, data quality checks, data visualization, and data reconciliation on a 1M-row dataset.
+* This project is for hiring managers, recruiters, and data teams who want to see a complete analytical workflow, including ETL, data quality checks, data visualizations, and data reconciliation, on a 1M-row dataset.
 
 ## 2.Problem Statement
 
