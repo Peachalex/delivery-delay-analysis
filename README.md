@@ -43,7 +43,7 @@
   2. **Geolocation Analysis**: Using **aggregation function** and **CTE** to assess the effectiveness of data granularity across different geographic levels.
   3. **Time Series Analysis**: Using **decomposion** function from **statsmodels** to identify the **seasonality** and fit proper model (e.g., **ARMA**). Then using the metrics(Mean Absolute Error, Root Mean Squared Error, Mean Absolute Percentage Error) to assess its accuracy.
   4. **Finance Analysis**: Comparing 'order_item' table and 'order_payments' to determine the revenue difference.
-* **Dashboard and report**: Built an interactive **Power BI** Dashboard to display results and created a PDF report for presentation. 
+* **Dashboard and report**: Built an interactive **Power BI** dashboard to display results and report for the presentation. 
 
 ## 7. Key Insights & Results
 
